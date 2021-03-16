@@ -4,4 +4,4 @@
 from setuptools import setup
 from setup import get_setup_kwargs
 
-setup(**get_setup_kwargs(raw=True))
+setup(**get_setup_kwargs(raw=False))
